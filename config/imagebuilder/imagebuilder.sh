@@ -180,7 +180,7 @@ rebuild_firmware() {
         luci-mod-status luci-mod-system luci-proto-ipv6 luci-proto-ppp luci-ssl \
         rpcd rpcd-mod-file rpcd-mod-iwinfo rpcd-mod-luci \
         acpid attr base-files bash bc blkid block-mount blockd bsdtar btrfs-progs busybox bzip2 \
-        which wpad-basic wwan xfs-fsck xfs-mkfs xz xz-utils ziptool zstd \
+        which xfs-fsck xfs-mkfs xz xz-utils ziptool zstd \
         losetup lsattr lsblk lscpu mkf2fs mount-utils openssl-util parted \
         exfat-mkfs f2fs-tools f2fsck fdisk gawk getopt git gzip jq \
         \
