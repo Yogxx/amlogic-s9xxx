@@ -184,7 +184,6 @@ rebuild_firmware() {
         losetup lsattr lsblk lscpu mkf2fs mount-utils openssl-util parted \
         exfat-mkfs f2fs-tools f2fsck fdisk gawk getopt git gzip jq \
         \
-        -libustream-openssl \
         rpcd-mod-rrdns uhttpd uhttpd-mod-ubus luci-compat \
         ath9k-htc-firmware btrfs-progs hostapd hostapd-utils kmod-ath kmod-ath9k kmod-ath9k-common \
         kmod-ath9k-htc kmod-cfg80211 kmod-crypto-acompress kmod-crypto-crc32c kmod-crypto-hash \
